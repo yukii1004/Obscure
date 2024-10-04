@@ -10,7 +10,7 @@ ObscureAI will streamline the redaction process, making data sharing faster and 
 
 
 ## Flow
-![alt text](flow1.png)
+![alt text](flow1png.png)
 
 1. Data Ingestion: The user uploads a file (Text, Image, PDF, Video).
 

@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "Obscure",
+    "version": "0.0.1",
+    "description": "A convenient Obfuscation tool that protects your sensitive content.",
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "icons/obscure16.png",
+        "48": "icons/obscure48.png",
+        "128": "icons/obscure128.png"
+      }
+    },
+    "permissions": [
+      "storage", "activeTab", "scripting"
+    ]
+  }

@@ -3,6 +3,11 @@ An AI-powered redaction tool that leverages Generative AI to automatically detec
 
 ObscureAI will streamline the redaction process, making data sharing faster and more secure across industries such as government, healthcare, and finance. It supports organizations in complying with privacy laws and protects sensitive information during audits or third-party interactions.
 
+## File Description:
+`BERT-FT`: Fine-tuning of the BERT model for better NER.(NLP)
+`Text-Image-processing`: Pipeline that handles OCR and complete obfuscation in images.
+`Text-PDF-processing`: Pipeline that handles OCR and NER and does obfuscation on PDF files.
+
 ## Key Features
 * Speed: Automating the process will make redaction much faster compared to manual methods.
 * Accuracy: AI will help ensure you don’t miss anything important while redacting.

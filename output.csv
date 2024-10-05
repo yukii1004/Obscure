@@ -1,0 +1,45 @@
+Token,Predicted Label
+Ramesh,B-NAME
+Kumar ,I-NAME
+'s    ,O
+Aadhaar,B-AADHAAR
+number,O
+is    ,O
+1234  ,O
+-     ,O
+5678  ,O
+-     ,O
+9012  ,O
+","     ,O
+issued,O
+on    ,O
+January,B-DATE
+15    ,I-DATE
+","     ,O
+1990  ,O
+.     ,O
+He    ,O
+lives ,O
+at    ,O
+123   ,B-ADDRESS
+Main  ,I-ADDRESS
+Street,I-ADDRESS
+","     ,O
+Bangalore,I-ADDRESS
+","     ,O
+Karnataka,I-ADDRESS
+.     ,O
+His   ,O
+mobile,O
+number,O
+is    ,O
+98765 ,B-MOBILE
+-     ,B-MOBILE
+43210 ,B-MOBILE
+","     ,O
+and   ,O
+his   ,O
+email ,O
+is    ,O
+ramesh.kumar@example.com,B-EMAIL
+.     ,O

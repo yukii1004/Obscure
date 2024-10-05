@@ -1,7 +1,7 @@
 # Obscure
 An AI-powered redaction tool that leverages Generative AI to automatically detect and redact sensitive information across multiple formats like text, images, and scanned documents.
 
-ObscureAI will streamline the redaction process, making data sharing faster and more secure across industries such as government, healthcare, and finance. It supports organizations in complying with privacy laws and protects sensitive information during audits or third-party interactions.
+Obscure will streamline the redaction process, making data sharing faster and more secure across industries such as government, healthcare, and finance. It supports organizations in complying with privacy laws and protects sensitive information during audits or third-party interactions.
 
 ## File Description:
 `BERT-FT`: Fine-tuning of the BERT model for better NER.(NLP) <br />

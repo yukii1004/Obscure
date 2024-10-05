@@ -34,7 +34,7 @@ Data Portability: GDPR allows data transfers; HIPAA does not.
               'B-CREDIT', 'I-CREDIT', 'B-INSURANCE', 'I-INSURANCE', 'B-GENETIC', 
               'I-GENETIC', 'B-BIOMETRIC', 'I-BIOMETRIC', 'B-CARD', 'I-CARD']
 ## Flow
-![alt text](flow.png)
+![alt text](flowchart.png)
 
 1. Data Ingestion: The user uploads a file (Text, Image, PDF, Video).
 
@@ -159,7 +159,10 @@ def optimized_tensor_operations(tensor1, tensor2):
 
 ### Sample:
 **Original Image:**
-![alt text](image.png)
+![alt text](sample-data.png)
 #### **Prompt: Remove Email**
 **Ouptu Image:**
 ![alt text](obfuscated_image.png)
+
+# Sample Browser Extension template:
+![alt text](Extension.png)
